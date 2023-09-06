@@ -17,6 +17,8 @@ PA(Pointer Authentication) related paper, document collection
 ## Attack
 
 - Examining Pointer Authentication on the iPhone XS [Google P0 2019] [link](https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html)
+- 2PAC 2Furious: Envisioning an iOS Compromise in 2019 [infiltrate 2019] [link](https://speakerdeck.com/marcograss/2pac-2furious-envisioning-an-ios-compromise-in-2019)
+- iOS Kernel PAC, One Year Later [blackhat USA 2020] [link](https://bazad.github.io/presentations/BlackHat-USA-2020-iOS_Kernel_PAC_One_Year_Later.pdf)
 - PACMAN: Attacking ARM Pointer Authentication with Speculative Execution [ISCA 2022] [link](https://pacmanattack.com/paper.pdf)
 - Demystifying Pointer Authentication on Apple M1 [usenix 2023] [link](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
 
